@@ -37,4 +37,3 @@ def send_email(name, email, message):
 
 if __name__ == '__main__':
     app.run(debug=True)
-
